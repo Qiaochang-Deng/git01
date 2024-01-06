@@ -23,8 +23,7 @@
 > 读一本好书，就是在和一个高尚的人谈话
 
 百度域名`http://www.baidu.com`  
-[百度链接]
-(http://www.baidu.com "百度的地址")  
+[百度链接](http://www.baidu.com "百度的地址")  
 
 **个人邮箱**
 <ciuceungdang@gmail.com>  
