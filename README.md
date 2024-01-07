@@ -59,7 +59,7 @@ http://www.baidu.com
 
 ``come on``
 
-![image](https://github.com/Qiaochang-Deng/git01/assets/134419694/97ba798c-16c9-4957-9d8a-5d5b4147236f "美图")
+
 
 
 
