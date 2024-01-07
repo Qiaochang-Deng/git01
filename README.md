@@ -5,7 +5,10 @@
 这是普通文本，无特别显示
 *这是斜体字*
 **这是粗体字**
-***这是粗体加斜体***
+***这是粗体加斜体***  
+~~删除线~~  
+~~这是删除线~~
+
 
 - 无序列表 1
 - 无序列表 2
@@ -25,8 +28,11 @@
 百度域名`http://www.baidu.com`  
 [百度链接](http://www.baidu.com "百度的地址")  
 
+
 **个人邮箱**
 <ciuceungdang@gmail.com>  
+http://www.baidu.com  
+<http://www.baidu.com>
 
 
 
